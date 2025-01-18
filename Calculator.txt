@@ -1,4 +1,7 @@
 Class Airthmetic{
+int div(int a, int b){
+return a/b
+}
 Public static void main(String [] args){
 }
 
