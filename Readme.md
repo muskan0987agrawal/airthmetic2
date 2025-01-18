@@ -12,4 +12,6 @@ I have successfully add the function sub in the Calculator.txt
 <br>
 Task 5
 I have successfully add the function multiply
-<br> 
+<br>
+Task 6
+I have successfully add the function division 
