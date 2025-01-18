@@ -1,4 +1,8 @@
 Class Airthmetic{
+int add (int a, int b){
+return a+b
+}
+
 Public static void main(String [] args){
 }
 
