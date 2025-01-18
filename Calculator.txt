@@ -1,1 +1,6 @@
-make a file
+Class Airthmetic{
+Public static void main(String [] args){
+}
+
+}
+
