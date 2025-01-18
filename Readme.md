@@ -9,4 +9,7 @@ I have successfully add the function add in the Calculator.txt
 <br>
 Task 4
 I have successfully add the function sub in the Calculator.txt
+<br>
+Task 5
+I have successfully add the function multiply
 <br> 
